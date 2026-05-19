@@ -1,0 +1,12 @@
+SELECT TOP (1000) [Player Name]
+      ,[Position]
+      ,[Age]
+      ,[Weight]
+      ,[Nation]
+      ,[Jersey No]
+      ,[Medical Status]
+      ,[Player Salary]
+      ,[Rating]
+      ,[Contract]
+  FROM [Club].[dbo].[ConfirmPlayers]
+

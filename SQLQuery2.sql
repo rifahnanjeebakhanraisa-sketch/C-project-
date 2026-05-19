@@ -1,0 +1,5 @@
+SELECT TOP (1000) [Username]
+      ,[Firstname]
+      ,[Lastname]
+      ,[Password]
+  FROM [Club].[dbo].[OwnerRegi]
